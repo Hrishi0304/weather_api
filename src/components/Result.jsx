@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-const Result = () => {
+const Result = (props) => {
   return (
     <div className='shadow-xl mt-5 p-3'>
       <h2 className='text-4xl text-center'>City Name</h2>
